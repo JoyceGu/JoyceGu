@@ -21,7 +21,7 @@ I thrive on turning bold ideas into reality and solving problems that make a dif
 ## Let's Connect:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/qiuzi-gu-279445136/">
-    <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/qiuzi-gu-279445136/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
