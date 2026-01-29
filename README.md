@@ -16,12 +16,3 @@ I thrive on turning bold ideas into reality and solving problems that make a dif
     <img src="https://img.shields.io/badge/%20Blog-Read%20My%20Thoughts-4ECDC4?style=for-the-badge&logo=rss&logoColor=white&logoSize=20" alt="Blog" />
   </a>
 </p>
-
-
-## Let's Connect:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/qiuzi-gu-279445136/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/%20Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=20" alt="LinkedIn" />
-  </a>
-</p>
