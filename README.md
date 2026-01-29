@@ -1,10 +1,10 @@
 Hi 👋, I'm Joyce Gu
 
-A passionate data scientist with expertise in full-stack app and web development.
+ 🔭 A data scientist and full-stack developer who believes in building solutions that matter. 
+When I'm not coding, you'll find me crafting DIY projects or dancing to Zumba beats. 
+I thrive on turning bold ideas into reality and solving problems that make a difference.
 
 ![Profile views](https://komarev.com/ghpvc/?username=JoyceGu&color=blue&style=flat-square)
-
-• 🔭 I'm currently working on full stack development projects.
 
 ## My Profile and Blog:
 
